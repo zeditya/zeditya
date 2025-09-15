@@ -2,15 +2,11 @@
 Hi there! This is your new eye-catching README.
 Don't forget to replace the placeholders to personalize it:
 
-[Your Name]: Aditya Bahuguna
-
-YOUR-USERNAME: zeditya
-
-your-linkedin-url: www.linkedin.com/in/aditya-bahuguna-1b1607360
-
-your-twitter-url: https://x.com/zeditya
-
-your-email@example.com: adityabahuguna098@gmail.com
+[Your Name]: [Aditya bahuguna        ]
+YOUR-USERNAME: [zeditya        ]
+your-linkedin-url: [ www.linkedin.com/in/aditya-bahuguna-1b1607360       ]
+your-twitter-url: [        ]
+your-email@example.com: [ adityabahuguna098@gmail.com       ]
 -->
 
 <!-- Center-aligned Profile Views Counter -->
