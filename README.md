@@ -1,33 +1,42 @@
 <!--
 Hi there! This is your new eye-catching README.
-Don't forget to replace the placeholders to personalize it:
 
-[Your Name]: [Aditya bahuguna        ]
-YOUR-USERNAME: [zeditya        ]
-your-linkedin-url: [ www.linkedin.com/in/aditya-bahuguna-1b1607360       ]
-your-twitter-url: [        ]
-your-email@example.com: [ adityabahuguna098@gmail.com       ]
+INSTRUCTIONS:
+
+Replace '[YOUR NAME HERE]' with your actual name.
+
+Replace every instance of 'YOUR-GITHUB-USERNAME' with your GitHub username.
+
+Replace the placeholder URLs for LinkedIn, Twitter, and Email with your actual links.
+
+You need to change these placeholders in the code below, not just in this comment block.
 -->
 
-<!-- Center-aligned Profile Views Counter -->
+<!--
+⬇️ REPLACE 'YOUR-GITHUB-USERNAME' IN THE LINK BELOW ⬇️
+-->
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DYOUR-USERNAME%26style%3Dfor-the-badge%26color%3D20B2AA" alt="Profile views"/>
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DYOUR-GITHUB-USERNAME%26style%3Dfor-the-badge%26color%3D20B2AA" alt="Profile views"/>
 </p>
 <br/>
 
-<!-- Dynamic Header with Typing Animation -->
+<!--
+⬇️ REPLACE '[YOUR NAME HERE]' IN THE LINE BELOW ⬇️
+-->
 
 <h1 align="center">
 <img src="https://www.google.com/search?q=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="margin-right: 8px;">
-Hi, I'm [Your Name]!
+Hi, I'm [YOUR NAME HERE]!
 <img src="https://www.google.com/search?q=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="margin-left: 8px;">
 </h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D700%26size%3D23%26pause%3D1000%26color%3D20B2AA%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DFirst-Year%2BCollege%2BStudent%3BPassionate%2BWeb%2BDeveloper%3BAI%2B%2526%2BML%2BEnthusiast%3BWeb3%2BExplorer%2B(Solana%2B%2526%2BRust)" alt="Typing SVG" /></a>
 </p>
 
-<!-- Social Media Links -->
+<!--
+⬇️ REPLACE THE PLACEHOLDER URLS IN THE LINES BELOW ⬇️
+-->
 
 <p align="center">
 <a href="https://www.google.com/search?q=https://www.linkedin.com/in/your-linkedin-url" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"></a>
@@ -82,14 +91,18 @@ I'm a driven first-year student documenting my coding odyssey right here on GitH
 </p>
 
 🔥 My GitHub Activity
+<!--
+⬇️ REPLACE 'YOUR-GITHUB-USERNAME' IN THE LINKS BELOW ⬇️
+-->
+
 <p align="center">
 <!-- GitHub Activity Graph -->
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DYOUR-USERNAME%26bg_color%3D1F222E%26color%3DF8D866%26line%3DF85D7F%26point%3DFFFFFF%26area%3Dtrue%26hide_border%3Dtrue" alt="GitHub Activity Graph" />
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DYOUR-GITHUB-USERNAME%26bg_color%3D1F222E%26color%3DF8D866%26line%3DF85D7F%26point%3DFFFFFF%26area%3Dtrue%26hide_border%3Dtrue" alt="GitHub Activity Graph" />
 <br/><br/>
 <!-- GitHub Stats & Languages -->
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR-USERNAME%26show_icons%3Dtrue%26theme%3Ddracula%26count_private%3Dtrue%26include_all_commits%3Dtrue" alt="GitHub Stats" />
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR-USERNAME%26layout%3Dcompact%26theme%3Ddracula" alt="Top Languages" />
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR-GITHUB-USERNAME%26show_icons%3Dtrue%26theme%3Ddracula%26count_private%3Dtrue%26include_all_commits%3Dtrue" alt="GitHub Stats" />
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR-GITHUB-USERNAME%26layout%3Dcompact%26theme%3Ddracula" alt="Top Languages" />
 <br/><br/>
 <!-- GitHub Streak -->
-<img align="center" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DYOUR-USERNAME%26theme%3Ddracula" alt="GitHub Streak" />
+<img align="center" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DYOUR-GITHUB-USERNAME%26theme%3Ddracula" alt="GitHub Streak" />
 </p>
