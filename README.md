@@ -1,33 +1,34 @@
 <!-- START - Profile README -->
 
-<h1 align="center">👋 Hi, I'm Aditya Bahuguna</h1>
+<h1 align="center"><b>Hi, I'm Aditya Bahuguna</b></h1>
 <h3 align="center">
   B.Tech CSE (AI & ML) Student | Passionate about SaaS, AI/ML, and Web3
 </h3>
 
 <!-- Animated Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=00FFC6&center=true&vCenter=true&width=600&lines=Learning+Relentlessly.;Building+with+Purpose.;Aiming+for+Excellence." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=00FFC6&center=true&vCenter=true&width=600&lines=Learning+Relentlessly.;Building+with+Purpose.;Aiming+for+Excellence." alt="Typing Animation" />
 </p>
 
 <p align="center">
   I'm a first-year Computer Science student with a deep passion for building 
-  <strong>scalable SaaS products</strong>, 
-  exploring <strong>AI/ML</strong> technologies, and diving into the world of <strong>Web3</strong>.  
-  I thrive on solving real-world problems through tech and will be pushing my first projects very soon. 🚀  
+  <b>scalable SaaS products</b>, exploring <b>AI/ML</b> technologies, and diving into the world of <b>Web3</b>.  
+  I thrive on solving real-world problems through tech and will be pushing my first projects very soon.
 </p>
 
 ---
 
-### CURRENTLY LEARNING
-- Full-Stack Web Development (React, MERN)
-- AI/ML Foundations
-- Blockchain & Web3 Fundamentals
-- Building production-ready SaaS apps
+<h2 align="center"><b>CURRENTLY LEARNING</b></h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Full-Stack_Web_Development-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="Full-Stack Web Dev">
+  <img src="https://img.shields.io/badge/AI/ML-FF6F61?style=for-the-badge&logo=python&logoColor=white" alt="AI/ML">
+  <img src="https://img.shields.io/badge/Blockchain_Web3-6A5ACD?style=for-the-badge&logo=ethereum&logoColor=white" alt="Web3">
+  <img src="https://img.shields.io/badge/SaaS_Apps-00C6FF?style=for-the-badge&logo=heroku&logoColor=white" alt="SaaS Apps">
+</p>
 
 ---
 
-### HERE'S MY TECH STACK
+<h2 align="center"><b>HERE'S MY TECH STACK</b></h2>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
@@ -43,39 +44,28 @@
 
 ---
 
-###  LET'S COLLABORATE
-I'm open to collaborating on:
-- SaaS Products
-- AI/ML & Data-driven Apps
-- Web3 and Blockchain Projects
-- Full-Stack Web Applications
-
----
-
-### MY GITHUB STATS
+<h2 align="center"><b>LET'S COLLABORATE</b></h2>
+<p align="center">I'm open to collaborating on:</p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeditya&theme=react&hide_border=true&ring=00FFC6&fire=00FFC6&currStreakLabel=00FFC6" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeditya&layout=compact&theme=react&title_color=00FFC6&icon_color=00FFC6&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/SaaS_Products-00C6FF?style=for-the-badge" alt="SaaS Products">
+  <img src="https://img.shields.io/badge/AI/ML_Apps-FF6F61?style=for-the-badge" alt="AI/ML Apps">
+  <img src="https://img.shields.io/badge/Web3_Blockchain-6A5ACD?style=for-the-badge" alt="Web3 Blockchain">
+  <img src="https://img.shields.io/badge/Full-Stack_Web_Apps-61DAFB?style=for-the-badge" alt="Full-Stack Web Apps">
 </p>
 
 ---
 
-
-
+<h2 align="center"><b>MY GITHUB STATS</b></h2>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zeditya&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zeditya&theme=github-light&hide_border=true&area=true&custom_title=My%20Contribution%20Graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeditya&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="GitHub Contribution Graph">
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeditya&theme=react&hide_border=true&ring=00FFC6&fire=00FFC6&currStreakLabel=00FFC6" alt="Streak Stats">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeditya&layout=compact&theme=react&title_color=00FFC6&icon_color=00FFC6&hide_border=true&bg_color=0D1117" alt="Top Languages">
 </p>
 
 ---
 
-### ✉️ Connect With Me
+<h2 align="center"><b>CONNECT WITH ME</b></h2>
 <p align="center">
   <a href="mailto:adityabahuguna098@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
@@ -91,8 +81,6 @@ I'm open to collaborating on:
   </a>
 </p>
 
----
-
-<p align="center">✨ "Learning. Building. Growing — one commit at a time." ✨</p>
+<p align="center"><b>"Learning. Building. Growing — one commit at a time."</b></p>
 
 <!-- END - Profile README -->
