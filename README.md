@@ -61,9 +61,24 @@ I'm open to collaborating on:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeditya&layout=compact&theme=react&title_color=00FFC6&icon_color=00FFC6&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
-<!-- Animated GitHub Activity Graph -->
+---
+
+### ⚡ Animated Activity Graphs
+
+#### **Option 3: Electric Glow (Premium Dark Theme)**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeditya&bg_color=0D1117&color=00FFC6&line=00FFC6&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Contribution%20Graph%20✨" alt="Aditya's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeditya&bg_color=0D1117&color=00FFC6&line=00FFC6&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Contribution%20Graph%20⚡" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+#### **Option 6: Auto Dark/Light Mode Switching**
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zeditya&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zeditya&theme=github-light&hide_border=true&area=true&custom_title=My%20Contribution%20Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeditya&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="GitHub Contribution Graph">
+  </picture>
 </p>
 
 ---
