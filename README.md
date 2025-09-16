@@ -99,6 +99,6 @@
   </a>
 </p>
 
-<p align="center"><b>"Learning. Building. Growing — one commit at a time."</b></p>
+<p align="center"><b>"Learning. Building. Growing ONE COMMIT AT A TIME"</b></p>
 
 <!-- END - Profile README -->
