@@ -61,8 +61,9 @@ I'm open to collaborating on:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeditya&layout=compact&theme=react&title_color=00FFC6&icon_color=00FFC6&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
+<!-- Animated GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeditya&bg_color=0D1117&color=00FFC6&line=00FFC6&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeditya&bg_color=0D1117&color=00FFC6&line=00FFC6&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Contribution%20Graph%20✨" alt="Aditya's Activity Graph" />
 </p>
 
 ---
