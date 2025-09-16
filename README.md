@@ -48,20 +48,15 @@
 ---
 
 <h2 align="center"><b>LET'S COLLABORATE</b></h2>
-<p align="center" style="line-height:2; font-size:16px;">
-  <span style="display:block; margin:5px 0;">
-    <img src="https://img.shields.io/badge/▶-SaaS_Products-00C6FF?style=for-the-badge&logo=appveyor&logoColor=white" style="animation:fadeIn 1s forwards;"> 
-  </span>
-  <span style="display:block; margin:5px 0;">
-    <img src="https://img.shields.io/badge/▶-AI/ML_Apps-FF6F61?style=for-the-badge&logo=python&logoColor=white" style="animation:fadeIn 1.5s forwards;">
-  </span>
-  <span style="display:block; margin:5px 0;">
-    <img src="https://img.shields.io/badge/▶-Web3_Blockchain-6A5ACD?style=for-the-badge&logo=ethereum&logoColor=white" style="animation:fadeIn 2s forwards;">
-  </span>
-  <span style="display:block; margin:5px 0;">
-    <img src="https://img.shields.io/badge/▶-Full-Stack_Apps-61DAFB?style=for-the-badge&logo=react&logoColor=white" style="animation:fadeIn 2.5s forwards;">
-  </span>
+<p align="center" style="font-size:16px; line-height:2;">
+  <ul style="display:inline-block; text-align:left; padding-left:20px;">
+    <li>SaaS Products</li>
+    <li>AI/ML & Data-driven Apps</li>
+    <li>Web3 and Blockchain Projects</li>
+    <li>Full-Stack Web Applications</li>
+  </ul>
 </p>
+
 
 
 ---
