@@ -1,20 +1,36 @@
 <!-- START - Profile README -->
 
-<p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
-    <h2>👋 Hi, I'm @YOUR_USERNAME</h2>
-  </a>
-  <p>Frontend Developer | React & MERN Stack 🚀 — Passionate about building scalable & maintainable web applications.</p>
+<p align="center">
+  <img src="./assets/banner.png" alt="Banner" width="800"/>
+</p>
+
+<h1 align="center">👋 Hi, I'm Aditya Bahuguna</h1>
+<p align="center">
+  <b>B.Tech CSE (AI/ML) | First-Year Student | Passionate about SaaS, AI/ML, and Web3</b>
 </p>
 
 ---
 
-### 🌱 Currently learning
-- JavaScript, React, MERN Stack
-- Modern CSS & Tailwind
-- Building production-grade web apps
+## 🧾 About Me  
+Hi, I'm **Aditya Bahuguna**, a **first-year B.Tech CSE student** specializing in **Artificial Intelligence and Machine Learning**.  
+I'm deeply passionate about **building scalable SaaS products**, exploring **Web3 technologies**, and leveraging **AI/ML** to solve real-world problems.  
 
-### 🧰 Tech Stack
+- 🚀 Currently learning **full-stack web development** and **AI/ML fundamentals**.  
+- 💡 Focused on **crafting innovative projects** that make an impact.  
+- 🌱 I will soon be pushing my **projects and ideas** to this GitHub as I grow my skills.  
+- 🎯 Goal: Build high-performing products, master **cutting-edge tech**, and become a **global top-tier developer**.  
+
+---
+
+## 🌱 Currently Learning
+- Full-Stack Development (MERN Stack + Tailwind CSS)  
+- SaaS architecture & design principles  
+- AI/ML algorithms and Python for ML  
+- Web3 fundamentals  
+
+---
+
+## 🧰 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
@@ -28,37 +44,39 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
-### 🤝 Collaboration
-I'm open to collaborate on **JavaScript** & **Web Development** projects. DM me!
+---
 
-### ✉️ Connect with me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+## 🤝 Collaboration
+I'm open to collaborating on:
+- **AI/ML projects**  
+- **SaaS development**  
+- **Web3 innovations**  
+- **Full-stack web applications**
 
 ---
 
-### 🧾 About Me
-- Pronouns: he/him (change as needed)
-- Fun fact: I'm a student passionate about learning new things every day.
+## ✉️ Connect With Me
+<p>
+  <a href="mailto:adityabahuguna098@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-bahuguna-1b1607360">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/zeditya?t=dgQxyIpScT2j6UcvkbsEdQ&s=08">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" alt="GitHub stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" alt="Top languages" />
-    </td>
-  </tr>
-</table>
+## 🚀 Coming Soon
+Stay tuned for upcoming **projects**, including:
+- Cutting-edge **AI/ML applications**  
+- **SaaS products** designed for scalability  
+- **Web3-based decentralized solutions**  
+- Advanced **full-stack applications**
 
 ---
-
-<!-- Optional: activity graph -->
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=github)
 
 <!-- END - Profile README -->
