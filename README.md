@@ -14,7 +14,7 @@
 ---
 
 <h2 align="center"><b>CURRENTLY LEARNING</b></h2>
-<p align="center">✨💻✨</p>
+<p align="center"></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Full-Stack_Web_Development-61DAFB?style=for-the-badge&logo=react&logoColor=white" style="margin:5px;">
   <img src="https://img.shields.io/badge/AI/ML-FF6F61?style=for-the-badge&logo=python&logoColor=white" style="margin:5px;">
@@ -27,7 +27,7 @@
 ---
 
 <h2 align="center"><b>HERE'S MY TECH STACK</b></h2>
-<p align="center">🚀➡️💻➡️🛠️</p>
+<p align="center"></p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white" style="margin:5px;">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin:5px;">
@@ -48,18 +48,19 @@
 ---
 
 <h2 align="center"><b>LET'S COLLABORATE</b></h2>
-<p align="center">🤝✨💡</p>
 <p align="center" style="font-size:16px; line-height:2;">
-  SaaS Products<br>
-  AI/ML & Data-driven Apps<br>
-  Web3 and Blockchain Projects<br>
-  Full-Stack Web Applications
+  <ul style="display:inline-block; text-align:left; padding-left:20px;">
+    <li>SaaS Products</li>
+    <li>AI/ML & Data-driven Apps</li>
+    <li>Web3 and Blockchain Projects</li>
+    <li>Full-Stack Web Applications</li>
+  </ul>
 </p>
 
 ---
 
 <h2 align="center"><b>MY GITHUB STATS</b></h2>
-<p align="center">📊✨</p>
+<p align="center"></p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeditya&theme=react&hide_border=true&ring=00FFC6&fire=00FFC6&currStreakLabel=00FFC6" style="margin:10px 5px;">
 </p>
@@ -70,7 +71,7 @@
 ---
 
 <h2 align="center"><b>MY GITHUB CONTRIBUTION GRAPH</b></h2>
-<p align="center">📈✨</p>
+<p align="center"></p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zeditya&theme=react-dark&hide_border=false&area=true&custom_title=My%20Contribution%20Graph">
@@ -82,7 +83,7 @@
 ---
 
 <h2 align="center"><b>CONNECT WITH ME</b></h2>
-<p align="center">✉️🌐🚀</p>
+<p align="center"></p>
 <p align="center">
   <a href="mailto:adityabahuguna098@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin:5px;">
