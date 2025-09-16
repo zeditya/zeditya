@@ -1,36 +1,28 @@
 <!-- START - Profile README -->
 
-<p align="center">
-  <img src="./assets/banner.png" alt="Banner" width="800"/>
-</p>
-
 <h1 align="center">👋 Hi, I'm Aditya Bahuguna</h1>
+<h3 align="center">
+  B.Tech CSE (AI & ML) Student | Passionate about SaaS, AI/ML, and Web3
+</h3>
+
 <p align="center">
-  <b>B.Tech CSE (AI/ML) | First-Year Student | Passionate about SaaS, AI/ML, and Web3</b>
+  I'm a first-year Computer Science student with a deep passion for building 
+  <strong>scalable SaaS products</strong>, 
+  exploring <strong>AI/ML</strong> technologies, and diving into the world of <strong>Web3</strong>.  
+  I thrive on solving real-world problems through tech and will be pushing my first projects very soon. 🚀  
 </p>
 
 ---
 
-## 🧾 About Me  
-Hi, I'm **Aditya Bahuguna**, a **first-year B.Tech CSE student** specializing in **Artificial Intelligence and Machine Learning**.  
-I'm deeply passionate about **building scalable SaaS products**, exploring **Web3 technologies**, and leveraging **AI/ML** to solve real-world problems.  
-
-- 🚀 Currently learning **full-stack web development** and **AI/ML fundamentals**.  
-- 💡 Focused on **crafting innovative projects** that make an impact.  
-- 🌱 I will soon be pushing my **projects and ideas** to this GitHub as I grow my skills.  
-- 🎯 Goal: Build high-performing products, master **cutting-edge tech**, and become a **global top-tier developer**.  
+### 🌱 Currently Learning
+- Full-Stack Web Development (React, MERN)
+- AI/ML Foundations
+- Blockchain & Web3 Fundamentals
+- Building production-ready SaaS apps
 
 ---
 
-## 🌱 Currently Learning
-- Full-Stack Development (MERN Stack + Tailwind CSS)  
-- SaaS architecture & design principles  
-- AI/ML algorithms and Python for ML  
-- Web3 fundamentals  
-
----
-
-## 🧰 Tech Stack
+### 🧰 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
@@ -46,17 +38,17 @@ I'm deeply passionate about **building scalable SaaS products**, exploring **Web
 
 ---
 
-## 🤝 Collaboration
+### 🤝 Let's Collaborate
 I'm open to collaborating on:
-- **AI/ML projects**  
-- **SaaS development**  
-- **Web3 innovations**  
-- **Full-stack web applications**
+- SaaS Products
+- AI/ML & Data-driven apps
+- Web3 and Blockchain Projects
+- Full-Stack Web Applications
 
 ---
 
-## ✉️ Connect With Me
-<p>
+### ✉️ Connect With Me
+<p align="center">
   <a href="mailto:adityabahuguna098@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
@@ -64,19 +56,15 @@ I'm open to collaborating on:
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://x.com/zeditya?t=dgQxyIpScT2j6UcvkbsEdQ&s=08">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://github.com/zeditya">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
 ---
 
-## 🚀 Coming Soon
-Stay tuned for upcoming **projects**, including:
-- Cutting-edge **AI/ML applications**  
-- **SaaS products** designed for scalability  
-- **Web3-based decentralized solutions**  
-- Advanced **full-stack applications**
-
----
+<p align="center">✨ "Learning. Building. Growing — one commit at a time." ✨</p>
 
 <!-- END - Profile README -->
