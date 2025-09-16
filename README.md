@@ -1,29 +1,33 @@
 <!-- START - Profile README -->
 
+<!-- Banner -->
+<p align="center">
+  <img src="./assets/images/banner.png" alt="Aditya Bahuguna Banner" width="100%" />
+</p>
+
 <h1 align="center">👋 Hi, I'm Aditya Bahuguna</h1>
 <h3 align="center">
   B.Tech CSE (AI & ML) Student | Passionate about SaaS, AI/ML, and Web3
 </h3>
 
 <p align="center">
-  I'm a first-year Computer Science student with a deep passion for building 
-  <strong>scalable SaaS products</strong>, 
-  exploring <strong>AI/ML</strong> technologies, and diving into the world of <strong>Web3</strong>.  
-  I thrive on solving real-world problems through tech and will be pushing my first projects very soon. 🚀  
+  I'm a first-year Computer Science student driven by a deep passion for building 
+  <strong>scalable SaaS products</strong>, exploring <strong>AI/ML</strong> technologies, and diving into the future of <strong>Web3</strong>.  
+  I love solving real-world problems through technology and will soon be sharing my first major projects here. 🚀
 </p>
 
 ---
 
 ### 🌱 Currently Learning
-- Full-Stack Web Development (React, MERN)
-- AI/ML Foundations
-- Blockchain & Web3 Fundamentals
-- Building production-ready SaaS apps
+- **Full-Stack Web Development** (React, MERN)
+- **AI/ML Foundations** – Machine Learning, Deep Learning
+- **Blockchain & Web3 Fundamentals**
+- **SaaS Development** – Scalable, production-ready apps
 
 ---
 
 ### 🧰 Tech Stack
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
@@ -39,11 +43,11 @@
 ---
 
 ### 🤝 Let's Collaborate
-I'm open to collaborating on:
-- SaaS Products
-- AI/ML & Data-driven apps
-- Web3 and Blockchain Projects
-- Full-Stack Web Applications
+I’m open to collaborating on:
+- 🌐 **SaaS Products** – Scalable and real-world solutions
+- 🤖 **AI/ML Applications** – Data-driven innovations
+- 🔗 **Web3 Projects** – Blockchain-based technologies
+- ⚡ **Full-Stack Web Apps**
 
 ---
 
@@ -65,6 +69,8 @@ I'm open to collaborating on:
 
 ---
 
-<p align="center">✨ "Learning. Building. Growing — one commit at a time." ✨</p>
+<p align="center">
+  ✨ <em>"Learning. Building. Growing — one commit at a time."</em> ✨
+</p>
 
 <!-- END - Profile README -->
