@@ -46,7 +46,7 @@
 ### 🤝 Let's Collaborate
 I'm open to collaborating on:
 - SaaS Products
-- AI/ML & Data-driven apps
+- AI/ML & Data-driven Apps
 - Web3 and Blockchain Projects
 - Full-Stack Web Applications
 
@@ -63,16 +63,9 @@ I'm open to collaborating on:
 
 ---
 
-### ⚡ Animated Activity Graphs
+### ⚡ Animated Activity Graph
 
-#### **Option 3: Electric Glow (Premium Dark Theme)**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeditya&bg_color=0D1117&color=00FFC6&line=00FFC6&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Contribution%20Graph%20⚡" alt="GitHub Activity Graph" />
-</p>
-
----
-
-#### **Option 6: Auto Dark/Light Mode Switching**
+#### **Auto Dark/Light Mode Switching**
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zeditya&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph">
