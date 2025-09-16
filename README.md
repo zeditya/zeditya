@@ -52,6 +52,21 @@ I'm open to collaborating on:
 
 ---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeditya&theme=radical&hide_border=true" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeditya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeditya&bg_color=0d1117&color=00ffb7&line=00ffb7&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
 ### ✉️ Connect With Me
 <p align="center">
   <a href="mailto:adityabahuguna098@gmail.com">
