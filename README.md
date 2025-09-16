@@ -73,6 +73,17 @@
 
 ---
 
+<h2 align="center"><b>MY GITHUB CONTRIBUTION GRAPH</b></h2>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zeditya&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zeditya&theme=github-light&hide_border=true&area=true&custom_title=My%20Contribution%20Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeditya&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="GitHub Contribution Graph" style="margin:10px 5px;">
+  </picture>
+</p>
+
+---
+
 <h2 align="center"><b>CONNECT WITH ME</b></h2>
 <p align="center">
   <a href="mailto:adityabahuguna098@gmail.com">
