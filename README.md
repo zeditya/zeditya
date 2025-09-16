@@ -1,8 +1,8 @@
 <!-- START - Profile README -->
 
-<!-- Banner -->
+<!-- Animated Typing Effect -->
 <p align="center">
-  <img src="./assets/images/banner.png" alt="Aditya Bahuguna Banner" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Aditya+Bahuguna;B.Tech+CSE+(AI+%26+ML)+Student;Passionate+about+SaaS%2C+AI%2FML%2C+and+Web3;Learning+%26+Building+Every+Day" alt="Typing SVG" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Aditya Bahuguna</h1>
@@ -11,18 +11,19 @@
 </h3>
 
 <p align="center">
-  I'm a first-year Computer Science student driven by a deep passion for building 
-  <strong>scalable SaaS products</strong>, exploring <strong>AI/ML</strong> technologies, and diving into the future of <strong>Web3</strong>.  
-  I love solving real-world problems through technology and will soon be sharing my first major projects here. 🚀
+  I'm a first-year Computer Science student with a deep passion for building 
+  <strong>scalable SaaS products</strong>, 
+  exploring <strong>AI/ML</strong> technologies, and diving into the world of <strong>Web3</strong>.  
+  I thrive on solving real-world problems through tech and will be pushing my first projects very soon. 🚀  
 </p>
 
 ---
 
 ### 🌱 Currently Learning
-- **Full-Stack Web Development** (React, MERN)
-- **AI/ML Foundations** – Machine Learning, Deep Learning
-- **Blockchain & Web3 Fundamentals**
-- **SaaS Development** – Scalable, production-ready apps
+- Full-Stack Web Development (React, MERN)
+- AI/ML Foundations
+- Blockchain & Web3 Fundamentals
+- Building production-ready SaaS apps
 
 ---
 
@@ -42,12 +43,19 @@
 
 ---
 
+### 📊 My GitHub Journey
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeditya&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
+
+---
+
 ### 🤝 Let's Collaborate
-I’m open to collaborating on:
-- 🌐 **SaaS Products** – Scalable and real-world solutions
-- 🤖 **AI/ML Applications** – Data-driven innovations
-- 🔗 **Web3 Projects** – Blockchain-based technologies
-- ⚡ **Full-Stack Web Apps**
+I'm open to collaborating on:
+- SaaS Products
+- AI/ML & Data-driven Apps
+- Web3 and Blockchain Projects
+- Full-Stack Web Applications
 
 ---
 
@@ -69,8 +77,12 @@ I’m open to collaborating on:
 
 ---
 
+<!-- Animated Quote -->
 <p align="center">
-  ✨ <em>"Learning. Building. Growing — one commit at a time."</em> ✨
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote">
 </p>
 
+<p align="center">✨ "Learning. Building. Growing — one commit at a time." ✨</p>
+
 <!-- END - Profile README -->
+
