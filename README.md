@@ -19,7 +19,7 @@
 
 ---
 
-### 🌱 Currently Learning
+### CURRENTLY LEARNING
 - Full-Stack Web Development (React, MERN)
 - AI/ML Foundations
 - Blockchain & Web3 Fundamentals
@@ -27,7 +27,7 @@
 
 ---
 
-### 🧰 Tech Stack
+### HERE'S MY TECH STACK
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
@@ -43,7 +43,7 @@
 
 ---
 
-### 🤝 Let's Collaborate
+###  LET'S COLLABORATE
 I'm open to collaborating on:
 - SaaS Products
 - AI/ML & Data-driven Apps
@@ -52,7 +52,7 @@ I'm open to collaborating on:
 
 ---
 
-### 📊 GitHub Stats
+### MY GITHUB STATS
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeditya&theme=react&hide_border=true&ring=00FFC6&fire=00FFC6&currStreakLabel=00FFC6" alt="Streak Stats" />
 </p>
