@@ -20,10 +20,10 @@
 
 <h2 align="center"><b>CURRENTLY LEARNING</b></h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="80" title="Full-Stack Web Development" style="margin:10px;">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="80" title="AI & ML" style="margin:10px;">
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="80" title="Blockchain & Web3" style="margin:10px;">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="80" title="SaaS Apps" style="margin:10px;">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="80" title="Full-Stack Web Development" style="margin:10px;">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="80" title="AI & ML" style="margin:10px;">
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80" title="Blockchain & Web3" style="margin:10px;">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80" title="SaaS Apps" style="margin:10px;">
 </p>
 
 ---
@@ -31,22 +31,22 @@
 <h2 align="center"><b>HERE'S MY TECH STACK</b></h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="65" title="HTML5" style="margin:10px;">
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="65" title="CSS3" style="margin:10px;">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="65" title="JavaScript" style="margin:10px;">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="65" title="React" style="margin:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="65" title="HTML5" style="margin:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="65" title="CSS3" style="margin:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="65" title="JavaScript" style="margin:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="65" title="React" style="margin:10px;">
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="65" title="Node.js" style="margin:10px;">
-  <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="65" title="Express.js" style="margin:10px;">
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="65" title="MongoDB" style="margin:10px;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGt1am43ZXV2eWZtbHdnbm9xZXpsdzFjdnk3NGd3cGFucGpzZzVwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41YtZOb9EUABnuqA/giphy.gif" width="65" title="Tailwind CSS" style="margin:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="65" title="Node.js" style="margin:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="65" title="Express.js" style="margin:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="65" title="MongoDB" style="margin:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="65" title="Tailwind CSS" style="margin:10px;">
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="65" title="Git" style="margin:10px;">
-  <img src="https://media.giphy.com/media/Jd3YLPT6VuhEo/giphy.gif" width="65" title="GitHub" style="margin:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="65" title="Git" style="margin:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="65" title="GitHub" style="margin:10px;">
 </p>
 
 ---
@@ -87,16 +87,16 @@
 <h2 align="center"><b>CONNECT WITH ME</b></h2>
 <p align="center">
   <a href="mailto:adityabahuguna098@gmail.com">
-    <img src="https://media.giphy.com/media/Fl4sBHbKUnRlw/giphy.gif" width="70" title="Gmail" style="margin:10px;">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/White/Gmail_white.png" width="55" title="Gmail" style="margin:10px;">
   </a>
   <a href="https://www.linkedin.com/in/aditya-bahuguna-1b1607360">
-    <img src="https://media.giphy.com/media/Hz3lscAtDFt6k/giphy.gif" width="70" title="LinkedIn" style="margin:10px;">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/White/LinkedIN_white.png" width="55" title="LinkedIn" style="margin:10px;">
   </a>
   <a href="https://x.com/zeditya?t=dgQxyIpScT2j6UcvkbsEdQ&s=08">
-    <img src="https://media.giphy.com/media/f7rAIgO81sEaA/giphy.gif" width="70" title="Twitter / X" style="margin:10px;">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/White/Twitter_white.png" width="55" title="Twitter" style="margin:10px;">
   </a>
   <a href="https://github.com/zeditya">
-    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="70" title="GitHub" style="margin:10px;">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/White/Github_white.png" width="55" title="GitHub" style="margin:10px;">
   </a>
 </p>
 
