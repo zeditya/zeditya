@@ -1,8 +1,7 @@
 <!-- START - Profile README -->
 
-<h1 align="center"><b>Hi, I'm Aditya Bahuguna</b></h1>
+<h1 align="center"><b>Hi, I'm Aditya</b></h1>
 <h3 align="center">
-  B.Tech CSE (AI & ML) Student | Passionate about SaaS, AI/ML, and Web3
 </h3>
 
 <!-- Animated Typing Effect -->
