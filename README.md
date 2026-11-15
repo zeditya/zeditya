@@ -32,7 +32,7 @@
 
 ## What I actually do
 
-<img align="right" width="240" src="assets/iron-man-hammer.gif" alt="Building something by hand in a cave workshop" />
+<img align="right" width="240" src="assets/iron-man-hammer.webp" alt="Building something by hand in a cave workshop" />
 
 I build in small, finished increments. A half-built idea teaches you nothing;
 an ugly finished thing teaches you everything — including where you were wrong.
@@ -47,7 +47,7 @@ an ugly finished thing teaches you everything — including where you were wrong
 
 ## The workshop
 
-<img align="left" width="290" src="assets/stark-lab.gif" alt="Working through a holographic interface of tools" />
+<img align="left" width="290" src="assets/stark-lab.webp" alt="Working through a holographic interface of tools" />
 
 The toolbox, honestly labelled. No wall of badges for things I opened once.
 
@@ -82,7 +82,7 @@ The toolbox, honestly labelled. No wall of badges for things I opened once.
 
 ## The boulder
 
-<img align="right" width="320" src="assets/sisyphus.gif" alt="Sisyphus pushing a boulder uphill" />
+<img align="right" width="320" src="assets/sisyphus.webp" alt="Sisyphus pushing a boulder uphill" />
 
 Sisyphus pushes a boulder uphill forever. I work through Striver's A2Z sheet.
 His boulder doesn't compile, so I'd argue I have the easier job.
@@ -101,10 +101,10 @@ in that repo rebuilds itself from git history, so progress is a fact, not a feel
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
-| **[Hue Massacre](https://github.com/zeditya/hue-massacre)** · [play it](https://zeditya.github.io/hue-massacre/) | A colour-theory hack-and-slash where your blade drinks hue, and only a complementary colour can break a knight's oath. Nothing is placed in the editor — the whole game is code. | `Godot 4` `GDScript` |
-| **[Odin Rails](https://github.com/zeditya/Odin_RubyOnRails)** | The Odin Project, in public. The README regenerates from git history, so the progress bar can't lie. | `Ruby` `Rails` |
-| **[DSA in C++](https://github.com/zeditya/Dsa-cpp)** | Striver's A2Z sheet with reasoning and complexity for every solution, tracked automatically. | `C++` |
-| **[Food Court Billing](https://github.com/zeditya/Food_court_management_system)** | Desktop billing app for a campus food court, built to learn GUIs, databases and real data handling. | `Python` |
+| **[Hue Massacre](https://github.com/zeditya/hue-massacre)** · [play it](https://zeditya.github.io/hue-massacre/) | A colour-theory hack-and-slash where your blade drinks hue, and only a complementary colour can break a knight's oath. Nothing is placed in the editor — the whole game is code.<br />*Learned: how much game feel lives in tuning, not features.* | `Godot 4` `GDScript` |
+| **[Odin Rails](https://github.com/zeditya/Odin_RubyOnRails)** | The Odin Project, in public. The README regenerates from git history, so the progress bar can't lie.<br />*Learned: convention over configuration — and that every framework default is someone's opinion.* | `Ruby` `Rails` |
+| **[DSA in C++](https://github.com/zeditya/Dsa-cpp)** | Striver's A2Z sheet with reasoning and complexity for every solution, tracked automatically.<br />*Learned: patterns repeat. Brute force first, then earn the optimisation.* | `C++` |
+| **[Food Court Billing](https://github.com/zeditya/Food_court_management_system)** | Desktop billing app for a campus food court, built to learn GUIs, databases and real data handling.<br />*Learned: where "it works" turns into "it's usable".* | `Python` |
 
 ---
 
@@ -145,7 +145,7 @@ Live numbers. No screenshots, no manual edits — if something here looks quiet,
 
 ## How I work
 
-<img align="right" width="280" src="assets/lock-in.gif" alt="Leaning forward, locked in" />
+<img align="right" width="280" src="assets/lock-in.webp" alt="Leaning forward, locked in" />
 
 - **Consistency over intensity.** Ninety focused minutes a day beats a heroic all-nighter I need a weekend to recover from.
 - **Read the whole error.** The answer is usually in the part I skipped.
